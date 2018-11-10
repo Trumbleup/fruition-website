@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/fruition-website/precache-manifest.35da2270e87ea0ad7515fd107052de7a.js"
+  "/fruition-website/precache-manifest.fd10f317d6a5b21f81490447d5237066.js"
 );
 
 workbox.clientsClaim();
