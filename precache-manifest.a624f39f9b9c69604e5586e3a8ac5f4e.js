@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/fruition-website/static/media/clear-key.cbd81da3.png"
   },
   {
-    "revision": "2e6113be41826ee58d47",
+    "revision": "ed0cf4c888947744db19",
     "url": "/fruition-website/static/css/main.92e0ef4c.chunk.css"
   },
   {
-    "revision": "af7ae505a9eed503f8b8e6982036873e",
-    "url": "/fruition-website/static/media/fontawesome-webfont.af7ae505.woff2"
+    "revision": "912ec66d7572ff821749319396470bde",
+    "url": "/fruition-website/static/media/fontawesome-webfont.912ec66d.svg"
   },
   {
     "revision": "7b7f2cbb454fdfd2c5d2",
@@ -40,8 +40,8 @@ self.__precacheManifest = [
     "url": "/fruition-website/static/media/my-crop-logo.b7e224fb.png"
   },
   {
-    "revision": "2e6113be41826ee58d47",
-    "url": "/fruition-website/static/js/main.2e6113be.chunk.js"
+    "revision": "ed0cf4c888947744db19",
+    "url": "/fruition-website/static/js/main.ed0cf4c8.chunk.js"
   },
   {
     "revision": "4383f316d9c0bd45fa1fc00369a22cf6",
@@ -60,8 +60,8 @@ self.__precacheManifest = [
     "url": "/fruition-website/static/media/swangreen.949e1a91.png"
   },
   {
-    "revision": "912ec66d7572ff821749319396470bde",
-    "url": "/fruition-website/static/media/fontawesome-webfont.912ec66d.svg"
+    "revision": "af7ae505a9eed503f8b8e6982036873e",
+    "url": "/fruition-website/static/media/fontawesome-webfont.af7ae505.woff2"
   },
   {
     "revision": "fee66e712a8a08eef5805a46892932ad",
@@ -80,7 +80,7 @@ self.__precacheManifest = [
     "url": "/fruition-website/static/css/1.5274d035.chunk.css"
   },
   {
-    "revision": "942865ceca6a3eeb7ad32e30fee3fb96",
+    "revision": "24da7e1bab4812dbbed6b4fac0a4a604",
     "url": "/fruition-website/index.html"
   }
 ];
