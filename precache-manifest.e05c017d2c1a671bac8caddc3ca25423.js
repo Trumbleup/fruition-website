@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/fruition-website/static/media/clear-key.cbd81da3.png"
   },
   {
-    "revision": "c748c3dc0f24e57d2eae",
-    "url": "/fruition-website/static/css/main.8ce0855c.chunk.css"
+    "revision": "387b97db6c511e89b0ba",
+    "url": "/fruition-website/static/css/main.4f68487d.chunk.css"
   },
   {
     "revision": "912ec66d7572ff821749319396470bde",
@@ -40,8 +40,8 @@ self.__precacheManifest = [
     "url": "/fruition-website/static/media/my-crop-logo.b7e224fb.png"
   },
   {
-    "revision": "c748c3dc0f24e57d2eae",
-    "url": "/fruition-website/static/js/main.c748c3dc.chunk.js"
+    "revision": "387b97db6c511e89b0ba",
+    "url": "/fruition-website/static/js/main.387b97db.chunk.js"
   },
   {
     "revision": "4383f316d9c0bd45fa1fc00369a22cf6",
@@ -80,7 +80,7 @@ self.__precacheManifest = [
     "url": "/fruition-website/static/css/1.5274d035.chunk.css"
   },
   {
-    "revision": "e41fbe935356f87ea12b0be2bb468103",
+    "revision": "b0f6e716b832265e1e624eacbfe673bb",
     "url": "/fruition-website/index.html"
   }
 ];
