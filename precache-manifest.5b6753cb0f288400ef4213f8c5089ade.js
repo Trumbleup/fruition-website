@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/fruition-website/static/media/clear-key.cbd81da3.png"
   },
   {
-    "revision": "670c5a7adc411441ff08",
-    "url": "/fruition-website/static/css/main.6d1799f9.chunk.css"
+    "revision": "1cc7d6814772f71a3d8f",
+    "url": "/fruition-website/static/css/main.2345fa8e.chunk.css"
   },
   {
-    "revision": "b06871f281fee6b241d60582ae9369b9",
-    "url": "/fruition-website/static/media/fontawesome-webfont.b06871f2.ttf"
+    "revision": "912ec66d7572ff821749319396470bde",
+    "url": "/fruition-website/static/media/fontawesome-webfont.912ec66d.svg"
   },
   {
     "revision": "e2e9f7cea51abda4cf42",
@@ -40,8 +40,8 @@ self.__precacheManifest = [
     "url": "/fruition-website/static/media/my-crop-logo.b7e224fb.png"
   },
   {
-    "revision": "670c5a7adc411441ff08",
-    "url": "/fruition-website/static/js/main.670c5a7a.chunk.js"
+    "revision": "1cc7d6814772f71a3d8f",
+    "url": "/fruition-website/static/js/main.1cc7d681.chunk.js"
   },
   {
     "revision": "4383f316d9c0bd45fa1fc00369a22cf6",
@@ -60,10 +60,6 @@ self.__precacheManifest = [
     "url": "/fruition-website/static/media/swangreen.949e1a91.png"
   },
   {
-    "revision": "674f50d287a8c48dc19ba404d20fe713",
-    "url": "/fruition-website/static/media/fontawesome-webfont.674f50d2.eot"
-  },
-  {
     "revision": "af7ae505a9eed503f8b8e6982036873e",
     "url": "/fruition-website/static/media/fontawesome-webfont.af7ae505.woff2"
   },
@@ -72,15 +68,19 @@ self.__precacheManifest = [
     "url": "/fruition-website/static/media/fontawesome-webfont.fee66e71.woff"
   },
   {
-    "revision": "912ec66d7572ff821749319396470bde",
-    "url": "/fruition-website/static/media/fontawesome-webfont.912ec66d.svg"
+    "revision": "674f50d287a8c48dc19ba404d20fe713",
+    "url": "/fruition-website/static/media/fontawesome-webfont.674f50d2.eot"
+  },
+  {
+    "revision": "b06871f281fee6b241d60582ae9369b9",
+    "url": "/fruition-website/static/media/fontawesome-webfont.b06871f2.ttf"
   },
   {
     "revision": "e2e9f7cea51abda4cf42",
     "url": "/fruition-website/static/css/1.08291ae5.chunk.css"
   },
   {
-    "revision": "22bf86905fb380169abba2960979bac6",
+    "revision": "3a66c9ab5066d867654dfa977565ca35",
     "url": "/fruition-website/index.html"
   }
 ];
