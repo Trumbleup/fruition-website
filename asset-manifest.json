@@ -1,7 +1,7 @@
 {
-  "main.css": "/fruition-website/static/css/main.2345fa8e.chunk.css",
-  "main.js": "/fruition-website/static/js/main.1cc7d681.chunk.js",
-  "main.js.map": "/fruition-website/static/js/main.1cc7d681.chunk.js.map",
+  "main.css": "/fruition-website/static/css/main.965d69a7.chunk.css",
+  "main.js": "/fruition-website/static/js/main.aeb26f87.chunk.js",
+  "main.js.map": "/fruition-website/static/js/main.aeb26f87.chunk.js.map",
   "static/css/1.08291ae5.chunk.css": "/fruition-website/static/css/1.08291ae5.chunk.css",
   "static/js/1.e2e9f7ce.chunk.js": "/fruition-website/static/js/1.e2e9f7ce.chunk.js",
   "static/js/1.e2e9f7ce.chunk.js.map": "/fruition-website/static/js/1.e2e9f7ce.chunk.js.map",
@@ -18,9 +18,9 @@
   "static/media/fruition-bulb.png": "/fruition-website/static/media/fruition-bulb.734f0295.png",
   "static/media/swangreen.png": "/fruition-website/static/media/swangreen.949e1a91.png",
   "static/media/fruition-logo.png": "/fruition-website/static/media/fruition-logo.a073f355.png",
-  "static/css/main.2345fa8e.chunk.css.map": "/fruition-website/static/css/main.2345fa8e.chunk.css.map",
+  "static/css/main.965d69a7.chunk.css.map": "/fruition-website/static/css/main.965d69a7.chunk.css.map",
   "static/css/1.08291ae5.chunk.css.map": "/fruition-website/static/css/1.08291ae5.chunk.css.map",
   "index.html": "/fruition-website/index.html",
-  "precache-manifest.5b6753cb0f288400ef4213f8c5089ade.js": "/fruition-website/precache-manifest.5b6753cb0f288400ef4213f8c5089ade.js",
+  "precache-manifest.33cd501a08391b2a9e50c3498400b60d.js": "/fruition-website/precache-manifest.33cd501a08391b2a9e50c3498400b60d.js",
   "service-worker.js": "/fruition-website/service-worker.js"
 }
