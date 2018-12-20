@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/fruition-website/static/media/Entreprenuer.b758f8f1.png"
   },
   {
-    "revision": "a8978a3003ca956372ea",
+    "revision": "6f3e1e6bbb46f0920ac6",
     "url": "/fruition-website/static/css/main.2b4290e9.chunk.css"
   },
   {
@@ -48,16 +48,16 @@ self.__precacheManifest = [
     "url": "/fruition-website/static/media/fruition-bulb.734f0295.png"
   },
   {
-    "revision": "a8978a3003ca956372ea",
-    "url": "/fruition-website/static/js/main.a8978a30.chunk.js"
-  },
-  {
-    "revision": "2d9a54e3c783974b5e12a90b91c9b117",
-    "url": "/fruition-website/static/media/Businesses.2d9a54e3.png"
+    "revision": "6f3e1e6bbb46f0920ac6",
+    "url": "/fruition-website/static/js/main.6f3e1e6b.chunk.js"
   },
   {
     "revision": "9120939df7bab00037aa73bcf07e1530",
     "url": "/fruition-website/static/media/Engineer.9120939d.png"
+  },
+  {
+    "revision": "2d9a54e3c783974b5e12a90b91c9b117",
+    "url": "/fruition-website/static/media/Businesses.2d9a54e3.png"
   },
   {
     "revision": "949e1a9112dd3a6f86d63008564533a0",
@@ -76,12 +76,12 @@ self.__precacheManifest = [
     "url": "/fruition-website/static/media/fontawesome-webfont.af7ae505.woff2"
   },
   {
-    "revision": "fee66e712a8a08eef5805a46892932ad",
-    "url": "/fruition-website/static/media/fontawesome-webfont.fee66e71.woff"
-  },
-  {
     "revision": "674f50d287a8c48dc19ba404d20fe713",
     "url": "/fruition-website/static/media/fontawesome-webfont.674f50d2.eot"
+  },
+  {
+    "revision": "fee66e712a8a08eef5805a46892932ad",
+    "url": "/fruition-website/static/media/fontawesome-webfont.fee66e71.woff"
   },
   {
     "revision": "b06871f281fee6b241d60582ae9369b9",
@@ -92,7 +92,7 @@ self.__precacheManifest = [
     "url": "/fruition-website/static/css/1.9d950113.chunk.css"
   },
   {
-    "revision": "6eba4c1d1fd817b304544254a28f871a",
+    "revision": "47e90387506408b867d94e4c4c459481",
     "url": "/fruition-website/index.html"
   }
 ];

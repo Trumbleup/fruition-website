@@ -1,7 +1,7 @@
 {
   "main.css": "/fruition-website/static/css/main.2b4290e9.chunk.css",
-  "main.js": "/fruition-website/static/js/main.a8978a30.chunk.js",
-  "main.js.map": "/fruition-website/static/js/main.a8978a30.chunk.js.map",
+  "main.js": "/fruition-website/static/js/main.6f3e1e6b.chunk.js",
+  "main.js.map": "/fruition-website/static/js/main.6f3e1e6b.chunk.js.map",
   "static/css/1.9d950113.chunk.css": "/fruition-website/static/css/1.9d950113.chunk.css",
   "static/js/1.3353add8.chunk.js": "/fruition-website/static/js/1.3353add8.chunk.js",
   "static/js/1.3353add8.chunk.js.map": "/fruition-website/static/js/1.3353add8.chunk.js.map",
@@ -14,7 +14,7 @@
   "static/media/guardian-zone.png": "/fruition-website/static/media/guardian-zone.4383f316.png",
   "static/media/j-sleeve.png": "/fruition-website/static/media/j-sleeve.24b4babc.png",
   "static/media/fruition-bulb.png": "/fruition-website/static/media/fruition-bulb.734f0295.png",
-  "static/media/index.css": "/fruition-website/static/media/Engineer.9120939d.png",
+  "static/media/index.css": "/fruition-website/static/media/Businesses.2d9a54e3.png",
   "static/media/swangreen.png": "/fruition-website/static/media/swangreen.949e1a91.png",
   "static/media/TheCannon.png": "/fruition-website/static/media/TheCannon.f087e786.png",
   "static/media/iD.png": "/fruition-website/static/media/iD.564ffb57.png",
@@ -22,6 +22,6 @@
   "static/css/main.2b4290e9.chunk.css.map": "/fruition-website/static/css/main.2b4290e9.chunk.css.map",
   "static/css/1.9d950113.chunk.css.map": "/fruition-website/static/css/1.9d950113.chunk.css.map",
   "index.html": "/fruition-website/index.html",
-  "precache-manifest.f1bc04e88e2e89e7e4e2a75d8f036907.js": "/fruition-website/precache-manifest.f1bc04e88e2e89e7e4e2a75d8f036907.js",
+  "precache-manifest.45c9b5d5fad3903e57b70e4b1e7a5b29.js": "/fruition-website/precache-manifest.45c9b5d5fad3903e57b70e4b1e7a5b29.js",
   "service-worker.js": "/fruition-website/service-worker.js"
 }
