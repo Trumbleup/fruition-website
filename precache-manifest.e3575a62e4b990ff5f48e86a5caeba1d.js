@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/fruition-website/static/media/Entreprenuer.b758f8f1.png"
   },
   {
-    "revision": "6f3e1e6bbb46f0920ac6",
+    "revision": "77ab2b1c466663cdcb21",
     "url": "/fruition-website/static/css/main.2b4290e9.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = [
     "url": "/fruition-website/static/media/fontawesome-webfont.912ec66d.svg"
   },
   {
-    "revision": "3353add85e0ea75d0952",
-    "url": "/fruition-website/static/js/1.3353add8.chunk.js"
+    "revision": "4d99392455984346c2b2",
+    "url": "/fruition-website/static/js/1.4d993924.chunk.js"
   },
   {
     "revision": "387e02da280375f53477",
@@ -48,8 +48,8 @@ self.__precacheManifest = [
     "url": "/fruition-website/static/media/fruition-bulb.734f0295.png"
   },
   {
-    "revision": "6f3e1e6bbb46f0920ac6",
-    "url": "/fruition-website/static/js/main.6f3e1e6b.chunk.js"
+    "revision": "77ab2b1c466663cdcb21",
+    "url": "/fruition-website/static/js/main.77ab2b1c.chunk.js"
   },
   {
     "revision": "9120939df7bab00037aa73bcf07e1530",
@@ -76,10 +76,6 @@ self.__precacheManifest = [
     "url": "/fruition-website/static/media/fontawesome-webfont.af7ae505.woff2"
   },
   {
-    "revision": "674f50d287a8c48dc19ba404d20fe713",
-    "url": "/fruition-website/static/media/fontawesome-webfont.674f50d2.eot"
-  },
-  {
     "revision": "fee66e712a8a08eef5805a46892932ad",
     "url": "/fruition-website/static/media/fontawesome-webfont.fee66e71.woff"
   },
@@ -88,11 +84,15 @@ self.__precacheManifest = [
     "url": "/fruition-website/static/media/fontawesome-webfont.b06871f2.ttf"
   },
   {
-    "revision": "3353add85e0ea75d0952",
+    "revision": "674f50d287a8c48dc19ba404d20fe713",
+    "url": "/fruition-website/static/media/fontawesome-webfont.674f50d2.eot"
+  },
+  {
+    "revision": "4d99392455984346c2b2",
     "url": "/fruition-website/static/css/1.9d950113.chunk.css"
   },
   {
-    "revision": "47e90387506408b867d94e4c4c459481",
+    "revision": "8bf7dddc34b1fc8a91dcc97b754434bf",
     "url": "/fruition-website/index.html"
   }
 ];
