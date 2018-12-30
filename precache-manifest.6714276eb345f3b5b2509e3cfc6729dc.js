@@ -1,39 +1,39 @@
 self.__precacheManifest = [
   {
-    "revision": "b7e224fb9d7d4397c80758bcecf2f0ab",
-    "url": "/fruition-website/static/media/my-crop-logo.b7e224fb.png"
+    "revision": "cbd81da38aba428d9370787ee80000fb",
+    "url": "/fruition-website/static/media/clear-key.cbd81da3.png"
   },
   {
-    "revision": "271e025dbe98bd59b411",
-    "url": "/fruition-website/static/css/main.1c01bb15.chunk.css"
+    "revision": "a1bcb03ff1bd91269d0c",
+    "url": "/fruition-website/static/css/main.78c84075.chunk.css"
   },
   {
     "revision": "912ec66d7572ff821749319396470bde",
     "url": "/fruition-website/static/media/fontawesome-webfont.912ec66d.svg"
   },
   {
-    "revision": "5ede4dcfa651a26402d8",
-    "url": "/fruition-website/static/js/1.5ede4dcf.chunk.js"
+    "revision": "b827753b8da3edd64fd1",
+    "url": "/fruition-website/static/js/1.b827753b.chunk.js"
   },
   {
     "revision": "387e02da280375f53477",
     "url": "/fruition-website/static/js/runtime~main.387e02da.js"
   },
   {
-    "revision": "2d9a54e3c783974b5e12a90b91c9b117",
-    "url": "/fruition-website/static/media/Businesses.2d9a54e3.png"
-  },
-  {
     "revision": "c567cb98d5d630d251574f5dea7c7be5",
     "url": "/fruition-website/static/media/tech-team.c567cb98.jpg"
   },
   {
-    "revision": "b758f8f1d7f663af5c493e09fc2cee7e",
-    "url": "/fruition-website/static/media/Entreprenuer.b758f8f1.png"
-  },
-  {
     "revision": "9120939df7bab00037aa73bcf07e1530",
     "url": "/fruition-website/static/media/Engineer.9120939d.png"
+  },
+  {
+    "revision": "2d9a54e3c783974b5e12a90b91c9b117",
+    "url": "/fruition-website/static/media/Businesses.2d9a54e3.png"
+  },
+  {
+    "revision": "b758f8f1d7f663af5c493e09fc2cee7e",
+    "url": "/fruition-website/static/media/Entreprenuer.b758f8f1.png"
   },
   {
     "revision": "0d19cc8e9ba597fb235ce92a147863d6",
@@ -56,12 +56,12 @@ self.__precacheManifest = [
     "url": "/fruition-website/static/media/dezphonics.47509ca1.png"
   },
   {
-    "revision": "271e025dbe98bd59b411",
-    "url": "/fruition-website/static/js/main.271e025d.chunk.js"
+    "revision": "b7e224fb9d7d4397c80758bcecf2f0ab",
+    "url": "/fruition-website/static/media/my-crop-logo.b7e224fb.png"
   },
   {
-    "revision": "cbd81da38aba428d9370787ee80000fb",
-    "url": "/fruition-website/static/media/clear-key.cbd81da3.png"
+    "revision": "a1bcb03ff1bd91269d0c",
+    "url": "/fruition-website/static/js/main.a1bcb03f.chunk.js"
   },
   {
     "revision": "4383f316d9c0bd45fa1fc00369a22cf6",
@@ -92,27 +92,35 @@ self.__precacheManifest = [
     "url": "/fruition-website/static/media/newsExample.44c6b107.png"
   },
   {
-    "revision": "af7ae505a9eed503f8b8e6982036873e",
-    "url": "/fruition-website/static/media/fontawesome-webfont.af7ae505.woff2"
+    "revision": "5f8030af650b8c8902e68315e18331cf",
+    "url": "/fruition-website/static/media/nextisnow-social.5f8030af.png"
   },
   {
-    "revision": "fee66e712a8a08eef5805a46892932ad",
-    "url": "/fruition-website/static/media/fontawesome-webfont.fee66e71.woff"
+    "revision": "8a2d386d6a11d116780e81a8b03df224",
+    "url": "/fruition-website/static/media/twitch.8a2d386d.png"
   },
   {
     "revision": "674f50d287a8c48dc19ba404d20fe713",
     "url": "/fruition-website/static/media/fontawesome-webfont.674f50d2.eot"
   },
   {
+    "revision": "fee66e712a8a08eef5805a46892932ad",
+    "url": "/fruition-website/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  {
+    "revision": "af7ae505a9eed503f8b8e6982036873e",
+    "url": "/fruition-website/static/media/fontawesome-webfont.af7ae505.woff2"
+  },
+  {
     "revision": "b06871f281fee6b241d60582ae9369b9",
     "url": "/fruition-website/static/media/fontawesome-webfont.b06871f2.ttf"
   },
   {
-    "revision": "5ede4dcfa651a26402d8",
-    "url": "/fruition-website/static/css/1.c4081bdb.chunk.css"
+    "revision": "b827753b8da3edd64fd1",
+    "url": "/fruition-website/static/css/1.c81b8769.chunk.css"
   },
   {
-    "revision": "70ea4b21fa2df40da75e7e8db617aee1",
+    "revision": "320cb201c2ad45c3eae0bc5a9222fdbf",
     "url": "/fruition-website/index.html"
   }
 ];
