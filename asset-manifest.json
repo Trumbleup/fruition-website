@@ -1,14 +1,14 @@
 {
   "main.css": "/fruition-website/static/css/main.8517aa21.chunk.css",
-  "main.js": "/fruition-website/static/js/main.e493fe5b.chunk.js",
-  "main.js.map": "/fruition-website/static/js/main.e493fe5b.chunk.js.map",
+  "main.js": "/fruition-website/static/js/main.ed053e62.chunk.js",
+  "main.js.map": "/fruition-website/static/js/main.ed053e62.chunk.js.map",
   "static/css/1.0f5ad2f9.chunk.css": "/fruition-website/static/css/1.0f5ad2f9.chunk.css",
   "static/js/1.d4dd393e.chunk.js": "/fruition-website/static/js/1.d4dd393e.chunk.js",
   "static/js/1.d4dd393e.chunk.js.map": "/fruition-website/static/js/1.d4dd393e.chunk.js.map",
   "runtime~main.js": "/fruition-website/static/js/runtime~main.387e02da.js",
   "runtime~main.js.map": "/fruition-website/static/js/runtime~main.387e02da.js.map",
   "static/media/hackathon_web.png": "/fruition-website/static/media/hackathon_web.88b3af04.png",
-  "static/media/index.css": "/fruition-website/static/media/Businesses.2d9a54e3.png",
+  "static/media/index.css": "/fruition-website/static/media/Engineer.9120939d.png",
   "static/media/fruition-logo.png": "/fruition-website/static/media/fruition-logo.a073f355.png",
   "static/media/thinking-woman.png": "/fruition-website/static/media/thinking-woman.8a741f20.png",
   "static/media/from-the-sun-logo.png": "/fruition-website/static/media/from-the-sun-logo.0381b488.png",
@@ -33,6 +33,6 @@
   "static/css/main.8517aa21.chunk.css.map": "/fruition-website/static/css/main.8517aa21.chunk.css.map",
   "static/css/1.0f5ad2f9.chunk.css.map": "/fruition-website/static/css/1.0f5ad2f9.chunk.css.map",
   "index.html": "/fruition-website/index.html",
-  "precache-manifest.8293776927bcc0b87ae6d6b8247d7ad8.js": "/fruition-website/precache-manifest.8293776927bcc0b87ae6d6b8247d7ad8.js",
+  "precache-manifest.4a68c8fd8ecbfeabfe9e031719c5fcef.js": "/fruition-website/precache-manifest.4a68c8fd8ecbfeabfe9e031719c5fcef.js",
   "service-worker.js": "/fruition-website/service-worker.js"
 }

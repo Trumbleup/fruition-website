@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/fruition-website/static/media/my-crop-logo.b7e224fb.png"
   },
   {
-    "revision": "e493fe5be66515ac40d2",
+    "revision": "ed053e627fb2d05d3052",
     "url": "/fruition-website/static/css/main.8517aa21.chunk.css"
   },
   {
@@ -24,20 +24,24 @@ self.__precacheManifest = [
     "url": "/fruition-website/static/media/Entreprenuer.b758f8f1.png"
   },
   {
-    "revision": "2d9a54e3c783974b5e12a90b91c9b117",
-    "url": "/fruition-website/static/media/Businesses.2d9a54e3.png"
-  },
-  {
     "revision": "9120939df7bab00037aa73bcf07e1530",
     "url": "/fruition-website/static/media/Engineer.9120939d.png"
   },
   {
-    "revision": "fa1220beaea269a15c49927cfccdc126",
-    "url": "/fruition-website/static/media/prototypeImage.fa1220be.jpg"
-  },
-  {
     "revision": "d057b0425f8e33f3ff49290b682dbdb8",
     "url": "/fruition-website/static/media/verified.d057b042.jpeg"
+  },
+  {
+    "revision": "0d19cc8e9ba597fb235ce92a147863d6",
+    "url": "/fruition-website/static/media/proven-process.0d19cc8e.png"
+  },
+  {
+    "revision": "2d9a54e3c783974b5e12a90b91c9b117",
+    "url": "/fruition-website/static/media/Businesses.2d9a54e3.png"
+  },
+  {
+    "revision": "fa1220beaea269a15c49927cfccdc126",
+    "url": "/fruition-website/static/media/prototypeImage.fa1220be.jpg"
   },
   {
     "revision": "2fab328e43e1089649a60dddf9b308c8",
@@ -46,10 +50,6 @@ self.__precacheManifest = [
   {
     "revision": "4ef8eebdcc5c0f0717ef3fe8ab271a4a",
     "url": "/fruition-website/static/media/engineers2.4ef8eebd.jpeg"
-  },
-  {
-    "revision": "0d19cc8e9ba597fb235ce92a147863d6",
-    "url": "/fruition-website/static/media/proven-process.0d19cc8e.png"
   },
   {
     "revision": "3c5d725ec404ffff479d2040f1880a9e",
@@ -92,8 +92,8 @@ self.__precacheManifest = [
     "url": "/fruition-website/static/media/dezphonics.47509ca1.png"
   },
   {
-    "revision": "e493fe5be66515ac40d2",
-    "url": "/fruition-website/static/js/main.e493fe5b.chunk.js"
+    "revision": "ed053e627fb2d05d3052",
+    "url": "/fruition-website/static/js/main.ed053e62.chunk.js"
   },
   {
     "revision": "cbd81da38aba428d9370787ee80000fb",
@@ -160,27 +160,27 @@ self.__precacheManifest = [
     "url": "/fruition-website/static/media/kyle.38fe2c90.png"
   },
   {
-    "revision": "af7ae505a9eed503f8b8e6982036873e",
-    "url": "/fruition-website/static/media/fontawesome-webfont.af7ae505.woff2"
-  },
-  {
-    "revision": "fee66e712a8a08eef5805a46892932ad",
-    "url": "/fruition-website/static/media/fontawesome-webfont.fee66e71.woff"
-  },
-  {
     "revision": "674f50d287a8c48dc19ba404d20fe713",
     "url": "/fruition-website/static/media/fontawesome-webfont.674f50d2.eot"
+  },
+  {
+    "revision": "af7ae505a9eed503f8b8e6982036873e",
+    "url": "/fruition-website/static/media/fontawesome-webfont.af7ae505.woff2"
   },
   {
     "revision": "b06871f281fee6b241d60582ae9369b9",
     "url": "/fruition-website/static/media/fontawesome-webfont.b06871f2.ttf"
   },
   {
+    "revision": "fee66e712a8a08eef5805a46892932ad",
+    "url": "/fruition-website/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  {
     "revision": "d4dd393e78a401964776",
     "url": "/fruition-website/static/css/1.0f5ad2f9.chunk.css"
   },
   {
-    "revision": "31960b8269072d6c2344e04f66f3384d",
+    "revision": "9345ecd399344ee99aa7fe370143d6c4",
     "url": "/fruition-website/index.html"
   }
 ];
